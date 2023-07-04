@@ -1,0 +1,16 @@
+﻿<Window x:Class="IncreasingSequenceCheck.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Increasing Sequence Check" Height="250" Width="350">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <Label Content="Введите число элементов массива:" />
+            <TextBox x:Name="sequenceTextBox" Width="200" Margin="0 10" />
+            <Label Content="Массив:" />
+            <TextBox x:Name="massivTextBox" Width="200" Margin="0 10" />
+            <Button Content="Проверить" Click="CheckButton_Click" />
+            <Label x:Name="resultLabel" Content="" Margin="0 10"/>
+        </StackPanel>
+    </Grid>
+</Window>

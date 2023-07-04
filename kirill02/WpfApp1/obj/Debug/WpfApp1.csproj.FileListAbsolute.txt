@@ -1,0 +1,86 @@
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\79018\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\PK2\Desktop\WPF\2\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\App.g.cs
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\PK3\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\PK3\Desktop\kirill02\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\PK3\Desktop\kirill02\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\PK3\Desktop\kirill02\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Kirill02\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\Kirill02\WpfApp1\bin\Debug\WpfApp1.exe
+F:\Kirill02\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\Kirill02\WpfApp1\obj\Debug\MainWindow.baml
+F:\Kirill02\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\Kirill02\WpfApp1\obj\Debug\App.g.cs
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.exe
+F:\Kirill02\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Работы VS2019\kirill02\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Работы VS2019\kirill02\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Работы VS2019\kirill02\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\MainWindow.baml
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\App.g.cs
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Работы VS2019\kirill02\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\XXX\Desktop\kirill02\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\XXX\Desktop\kirill02\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\XXX\Desktop\kirill02\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\App.g.cs
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\XXX\Desktop\kirill02\WpfApp1\obj\Debug\WpfApp1.pdb
